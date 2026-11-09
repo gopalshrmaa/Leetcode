@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1518-water-bottles](https://github.com/gopalshrmaa/Leetcode/tree/master/1518-water-bottles) |
 | [3834-merge-adjacent-equal-elements](https://github.com/gopalshrmaa/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## String
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gopalshrmaa/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Math
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/gopalshrmaa/Leetcode/tree/master/1518-water-bottles) |
 <!---LeetCode Topics End-->
