@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/gopalshrmaa/Leetcode/tree/master/1518-water-bottles) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/gopalshrmaa/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3834-merge-adjacent-equal-elements](https://github.com/gopalshrmaa/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## String
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gopalshrmaa/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/gopalshrmaa/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
