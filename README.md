@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gopalshrmaa/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/gopalshrmaa/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/gopalshrmaa/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Monotonic Stack
 |  |
 | ------- |
