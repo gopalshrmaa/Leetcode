@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/gopalshrmaa/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gopalshrmaa/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gopalshrmaa/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/gopalshrmaa/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3834-merge-adjacent-equal-elements](https://github.com/gopalshrmaa/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Stack
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gopalshrmaa/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/gopalshrmaa/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Math
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/gopalshrmaa/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/gopalshrmaa/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
